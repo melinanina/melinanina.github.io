@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Dirt &amp; Sky</title>
+    <link>https://melinanina.github.io/portfolio/index.xml</link>
+    <description>Recent content in Portfolios on Dirt &amp; Sky</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Melina Mattos</copyright>
+    <lastBuildDate>Fri, 02 Dec 2016 16:59:09 -0800</lastBuildDate>
+    <atom:link href="https://melinanina.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>first_post</title>
+      <link>https://melinanina.github.io/portfolio/first_post/</link>
+      <pubDate>Fri, 02 Dec 2016 16:59:09 -0800</pubDate>
+      
+      <guid>https://melinanina.github.io/portfolio/first_post/</guid>
+      <description>&lt;p&gt;First post test&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Item with image</title>
+      <link>https://melinanina.github.io/portfolio/second_post/</link>
+      <pubDate>Wed, 02 Nov 2016 16:59:09 -0800</pubDate>
+      
+      <guid>https://melinanina.github.io/portfolio/second_post/</guid>
+      <description>&lt;p&gt;Second post test&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
