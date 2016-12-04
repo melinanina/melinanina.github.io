@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<meta name="generator" content="Hugo 0.18-DEV" /><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Dirt &amp; Sky</title>
+<meta name="description" content="Describe your website">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="all,follow">
+<meta name="googlebot" content="index,follow,snippet,archive">
+<link rel="stylesheet" href="https://melinanina.github.io/css/bootstrap.min.css">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,300,700,400italic">
+<link rel="stylesheet" href="https://melinanina.github.io/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://melinanina.github.io/css/owl.carousel.css">
+<link rel="stylesheet" href="https://melinanina.github.io/css/owl.theme.css">
+
+
+  <link href="https://melinanina.github.io/css/style.default.css" rel="stylesheet" id="theme-stylesheet">
+
+
+<link href="https://melinanina.github.io/css/custom.css" rel="stylesheet">
+<link rel="shortcut icon" href="https://melinanina.github.io/img/favicon.png">
+
+  <link href="https://melinanina.github.io/index.xml" rel="alternate" type="application/rss+xml" title="Dirt &amp; Sky" />
+  <link href="https://melinanina.github.io/index.xml" rel="feed" type="application/rss+xml" title="Dirt &amp; Sky" />
+
+
+</head>
+<body>
+  <div id="all">
+      <div class="container-fluid">
+          <div class="row row-offcanvas row-offcanvas-left">
+              <div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
+  <div class="sidebar-content">
+    <h1 class="sidebar-heading"><a href="/">Dirt &amp; Sky</a></h1>
+    
+      <p class="sidebar-p">I do stuff.</p>
+    
+    <ul class="sidebar-menu">
+      
+      
+        <li><a href="https://melinanina.github.io">Home</a></li>
+      
+        <li><a href="https://melinanina.github.ioabout/">About</a></li>
+      
+    </ul>
+    <p class="social">
+  
+  <a href="facebook.com/melinanina" data-animate-hover="pulse" class="external facebook">
+    <i class="fa fa-facebook"></i>
+  </a>
+  
+  
+  <a href="google.com/&#43;melinamattos" data-animate-hover="pulse" class="external gplus">
+    <i class="fa fa-google-plus"></i>
+  </a>
+  
+  
+  
+  
+  <a href="mailto:melina@melinanina.com" data-animate-hover="pulse" class="email">
+    <i class="fa fa-envelope"></i>
+  </a>
+  
+</p>
+
+
+    <div class="copyright">
+      <p class="credit">
+        
+          Melina Mattos
+        
+        | Template by <a href="https://bootstrapious.com/free-templates" class="external">Bootstrapious.com</a>
+
+&amp; ported to Hugo by <a href="https://github.com/kishaningithub">Kishan B</a>
+
+      </p>
+    </div>
+  </div>
+</div>
+
+              
+  <div class="col-xs-12 col-sm-8 col-md-9 content-column">
+    <div class="small-navbar visible-xs">
+  <button type="button" data-toggle="offcanvas" class="btn btn-ghost pull-left"> <i class="fa fa-align-left"> </i>Menu</button>
+  <h1 class="small-navbar-heading"><a href="/">Dirt &amp; Sky</a></h1>
+</div>
+
+    <div class="grid">
+        <div class="row">
+          
+              <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
+                  <div class="box-masonry">
+                      
+                        
+                        <a href="https://melinanina.github.io/portfolio/baja_california_20150208/" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
+                        
+                            <img src="img/portfolio/baja_california.jpg" alt="" class="img-responsive">
+                        </a>
+                      
+                      
+                      <div class="box-masonry-text">
+                      
+                          <h4><a href="https://melinanina.github.io/portfolio/baja_california_20150208/">Baja California, Mexico</a></h4>
+                          <div class="box-masonry-desription">
+                              <p>Gene and I decided to drive down highway 1 from northern California to the middle of Baja California in early January, and in 8 days, we covered about 2000 miles (3200 kilometers). As we traveled further south from the border, the size of and proximity between towns both decreased, and gas stations, ATMs, and general amenities become few and far between. Highway 1 does not offer much in terms of tourist attractions, but the landscape offsets any disappointments and is absolutely stunning: red soil, blue sky, dark green cacti sprinkled across the terrain with the occasional grey rocky mountains obscuring distant views.</p>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          
+              <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
+                  <div class="box-masonry">
+                      
+                        
+                        <a href="https://melinanina.github.io/portfolio/aerobatic_experience_20130128/" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
+                        
+                            <img src="img/portfolio/aerobatic_experience.jpg" alt="" class="img-responsive">
+                        </a>
+                      
+                      
+                      <div class="box-masonry-text">
+                      
+                          <h4><a href="https://melinanina.github.io/portfolio/aerobatic_experience_20130128/">Aerobatic Experience</a></h4>
+                          <div class="box-masonry-desription">
+                              <p>When I first arrived, the instructor fitted me in a jumper and explained the basics of my parachute. If I wasn&rsquo;t already nervous, his causal instructions of, &ldquo;Oh, it’s easy. Just climb out of the plane and throw yourself over&rdquo; left me wondering, What the heck am I doing here?! I guess my nervous laugh showed my fear because as we discussed the lesson plan, he limited my instruction to the basics (&ldquo;The advanced maneuvers come later with time.</p>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          
+        </div>
+    </div>
+</div>
+
+
+          </div>
+      </div>
+  </div>
+  <script src="https://melinanina.github.io/js/jquery.min.js"></script>
+<script src="https://melinanina.github.io/js/bootstrap.min.js"></script>
+<script src="https://melinanina.github.io/js/jquery.cookie.js"> </script>
+<script src="https://melinanina.github.io/js/ekko-lightbox.js"></script>
+<script src="https://melinanina.github.io/js/jquery.scrollTo.min.js"></script>
+<script src="https://melinanina.github.io/js/masonry.pkgd.min.js"></script>
+<script src="https://melinanina.github.io/js/imagesloaded.pkgd.min.js"></script>
+<script src="https://melinanina.github.io/js/owl.carousel.min.js"></script>
+<script src="https://melinanina.github.io/js/front.js"></script>
+
+</body>
+</html>

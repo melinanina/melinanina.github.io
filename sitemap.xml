@@ -2,24 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://melinanina.github.io/portfolio/baja_california_20150208/</loc>
-    <lastmod>2015-02-08T14:00:09-08:00</lastmod>
+    <loc>https://melinanina.github.io/2015/02/baja-california-mexico/</loc>
+    <lastmod>2015-02-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://melinanina.github.io/portfolio/aerobatic_experience_20130128/</loc>
-    <lastmod>2013-01-28T09:48:09-08:00</lastmod>
+    <loc>https://melinanina.github.io/2013/01/aerobatic-experience/</loc>
+    <lastmod>2013-01-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://melinanina.github.io/</loc>
-    <lastmod>2015-02-08T14:00:09-08:00</lastmod>
+    <loc>https://melinanina.github.io/categories/adventure/</loc>
+    <lastmod>2013-01-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://melinanina.github.io/portfolio/</loc>
-    <lastmod>2015-02-08T14:00:09-08:00</lastmod>
+    <loc>https://melinanina.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://melinanina.github.io/</loc>
+    <lastmod>2015-02-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://melinanina.github.io/tags/flying/</loc>
+    <lastmod>2013-01-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://melinanina.github.io/tags/mexico/</loc>
+    <lastmod>2015-02-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://melinanina.github.io/post/</loc>
+    <lastmod>2015-02-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://melinanina.github.io/tags/roadtrip/</loc>
+    <lastmod>2015-02-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://melinanina.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://melinanina.github.io/categories/travel/</loc>
+    <lastmod>2015-02-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

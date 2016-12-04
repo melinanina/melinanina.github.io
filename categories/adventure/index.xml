@@ -1,33 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dirt &amp; Sky</title>
-    <link>https://melinanina.github.io/index.xml</link>
-    <description>Recent content on Dirt &amp; Sky</description>
+    <title>Adventure on Dirt &amp; Sky</title>
+    <link>https://melinanina.github.io/categories/adventure/index.xml</link>
+    <description>Recent content in Adventure on Dirt &amp; Sky</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Feb 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://melinanina.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Baja California, Mexico</title>
-      <link>https://melinanina.github.io/2015/02/baja-california-mexico/</link>
-      <pubDate>Sun, 08 Feb 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://melinanina.github.io/2015/02/baja-california-mexico/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://vityugov.com/post/bahia-de-los-angeles/&#34;&gt;Gene&lt;/a&gt; and I decided to drive down highway 1 from northern California to the middle of Baja California in early January, and in 8 days, we covered about 2000 miles (3200 kilometers). As we traveled further south from the border, the size of and proximity between towns both decreased, and gas stations, ATMs, and general amenities become few and far between. Highway 1 does not offer much in terms of tourist attractions, but the landscape offsets any disappointments and is absolutely stunning: red soil, blue sky, dark green cacti sprinkled across the terrain with the occasional grey rocky mountains obscuring distant views.&lt;/p&gt;
-
-&lt;p&gt;Our destination was a small, quiet fisherman village called Bahía de los Ángeles on the eastern side of Baja California. The bay is surrounded by islands, which makes it seem more like a lake than part of a sea. The location is great for kayaking, but due to the strong day winds, we were prevented from going out onto the water. Therefore, we enjoyed the wildlife from the shore, and we saw plenty of dolphins, sea lions, and marine birds.&lt;/p&gt;
-
-&lt;p&gt;On the way home to California, we visited the Cataviña cave paintings, which are a short walk off highway 1. The paintings are interesting, but the views of the landscape really make the detour worthwhile. La Bufadora in Ensenada was underwhelming, and, thankfully, we missed the hordes of tourists and pestersome vendors by arriving before 8 am.&lt;/p&gt;
-
-&lt;p&gt;The map below highlights our route and places to visit, dine, and stay. As a note for other tourists headed across the border, the location to pick-up the tourist visa in Mexico is in the &amp;ldquo;to declare&amp;rdquo; office as soon as crossing the border (on the right); there are few signs so ask around.&lt;/p&gt;
-
-&lt;iframe src=&#34;https://www.google.com/maps/d/embed?mid=zElkIPCwp184.kvixKYZpV-7E&#34; width=&#34;100%&#34; height=&#34;480&#34;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;em&gt;Posted 8 February 2015&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
+    <atom:link href="https://melinanina.github.io/categories/adventure/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Aerobatic Experience</title>
